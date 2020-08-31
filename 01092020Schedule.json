@@ -1,0 +1,170 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "12:00 CEST",
+    "Sport": "CYCLING",
+    "Competition": "TOUR OF FRANCE",
+    "EventName": "STAGE 3",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PERU LEAGUE",
+    "EventName": "CIENCIANO-UNIVERSITARIO",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "20:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "FENERBAHCE-ANTALYASPOR",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "20:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PERU LEAGUE",
+    "EventName": "ACADEMIA CANTOLAO-SPORTING CRISTAL",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "MIAMI HEAT-MILWAUKEE BUCKS",
+    "ChannelIds": "15-16 [SPA]17-18 [POR]27-28 [ENG]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "03:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "HOUSTON ROCKETS-OKLAHOMA CITY THUNDER",
+    "ChannelIds": "15-16 [SPA]17-18 [POR]27-28 [ENG]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "04:05 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "CLUB LEON-ATLAS",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "12:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA CHAMPIONS LEAGUE",
+    "EventName": "PLAYOFFS DRAW",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "13:00 CEST",
+    "Sport": "CYCLING",
+    "Competition": "TOUR OF FRANCE",
+    "EventName": "STAGE 4",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "EVERTON-BLACKBURN ROVERS",
+    "ChannelIds": "17-18 [POR]21-22 [SPA]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "20:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "BESIKTAS-SIVASSPOR",
+    "ChannelIds": "7-8 [POR]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "20:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "REAL MALLORCA-CASTELLON",
+    "ChannelIds": "67 [CAT]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "21:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ECUADOR LEAGUE",
+    "EventName": "ORENSE-MUSHUC RUNA",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "23:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "BOSTON CELTICS-TORONTO RAPTORS",
+    "ChannelIds": "13-14 [SPA]21-22 [SPA]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "23:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ECUADOR LEAGUE",
+    "EventName": "LDU QUITO-MACARA",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "USA MLS",
+    "EventName": "TORONTO FC-MONTREAL IMPACT",
+    "ChannelIds": "7-8 [POR]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ECUADOR LEAGUE",
+    "EventName": "SC BARCELONA-AUCAS",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "02:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "UTAH JAZZ-DENVER NUGGETS",
+    "ChannelIds": "15-16 [SPA]21-22 [SPA]"
+  }
+]
