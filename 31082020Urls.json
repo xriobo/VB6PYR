@@ -1,0 +1,182 @@
+[
+  {
+    "ChannelId": 1,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/01.m3u8"
+  },
+  {
+    "ChannelId": 2,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/02.m3u8"
+  },
+  {
+    "ChannelId": 3,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/03.m3u8"
+  },
+  {
+    "ChannelId": 4,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/04.m3u8"
+  },
+  {
+    "ChannelId": 5,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/05.m3u8"
+  },
+  {
+    "ChannelId": 6,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/06.m3u8"
+  },
+  {
+    "ChannelId": 7,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/07.m3u8"
+  },
+  {
+    "ChannelId": 8,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/08.m3u8"
+  },
+  {
+    "ChannelId": 9,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/09.m3u8"
+  },
+  {
+    "ChannelId": 10,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/010.m3u8"
+  },
+  {
+    "ChannelId": 11,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/11.m3u8"
+  },
+  {
+    "ChannelId": 12,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/12.m3u8"
+  },
+  {
+    "ChannelId": 13,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/13.m3u8"
+  },
+  {
+    "ChannelId": 14,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/14.m3u8"
+  },
+  {
+    "ChannelId": 15,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/15.m3u8"
+  },
+  {
+    "ChannelId": 16,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/16.m3u8"
+  },
+  {
+    "ChannelId": 17,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/17.m3u8"
+  },
+  {
+    "ChannelId": 18,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/18.m3u8"
+  },
+  {
+    "ChannelId": 19,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/19.m3u8"
+  },
+  {
+    "ChannelId": 20,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/20.m3u8"
+  },
+  {
+    "ChannelId": 21,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/21.m3u8"
+  },
+  {
+    "ChannelId": 22,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/22.m3u8"
+  },
+  {
+    "ChannelId": 23,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/23.m3u8"
+  },
+  {
+    "ChannelId": 24,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/24.m3u8"
+  },
+  {
+    "ChannelId": 25,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/25.m3u8"
+  },
+  {
+    "ChannelId": 26,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/26.m3u8"
+  },
+  {
+    "ChannelId": 27,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/27.m3u8"
+  },
+  {
+    "ChannelId": 28,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/28.m3u8"
+  },
+  {
+    "ChannelId": 29,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/29.m3u8"
+  },
+  {
+    "ChannelId": 30,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/30.m3u8"
+  },
+  {
+    "ChannelId": 31,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/31.m3u8"
+  },
+  {
+    "ChannelId": 32,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/32.m3u8"
+  },
+  {
+    "ChannelId": 33,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/33.m3u8"
+  },
+  {
+    "ChannelId": 34,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/34.m3u8"
+  },
+  {
+    "ChannelId": 35,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/35.m3u8"
+  },
+  {
+    "ChannelId": 36,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/36.m3u8"
+  },
+  {
+    "ChannelId": 37,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/37.m3u8"
+  },
+  {
+    "ChannelId": 38,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/38.m3u8"
+  },
+  {
+    "ChannelId": 39,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/39.m3u8"
+  },
+  {
+    "ChannelId": 40,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/40.m3u8"
+  },
+  {
+    "ChannelId": 41,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/41.m3u8"
+  },
+  {
+    "ChannelId": 42,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/42.m3u8"
+  },
+  {
+    "ChannelId": 43,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/43.m3u8"
+  },
+  {
+    "ChannelId": 44,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/44.m3u8"
+  },
+  {
+    "ChannelId": 45,
+    "Url": "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://cdn.arenavision.link/45.m3u8"
+  }
+]

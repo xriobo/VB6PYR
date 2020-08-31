@@ -1,0 +1,154 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "30/08/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "LIGUE 1",
+    "EventName": "BREST-OLYMPIQUE MARSEILLE",
+    "ChannelIds": "3-4 [SPA]29-30 [SPA]"
+  },
+  {
+    "Date": "30/08/2020",
+    "Time": "21:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "LA CLIPPERS-DALLAS MAVERICKS",
+    "ChannelIds": "7-8 [POR]15-16 [SPA]"
+  },
+  {
+    "Date": "30/08/2020",
+    "Time": "21:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "SPORTING PORTUGAL-BELENENSES",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "30/08/2020",
+    "Time": "22:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "PALESTINO-UNIVERSIDAD CHILE",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "30/08/2020",
+    "Time": "22:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ECUADOR LEAGUE",
+    "EventName": "DELFIN-EL NACIONAL",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "00:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "CURICO UNIDO-UNION LA CALERA",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "SANTOS LAGUNA-QUERETARO",
+    "ChannelIds": "25-26 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "02:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "DENVER NUGGETS-UTAH JAZZ",
+    "ChannelIds": "17-18 [POR]27-28 [ENG]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "04:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "USA MLS",
+    "EventName": "SEATTLE SOUNDERS-LOS ANGELES FC",
+    "ChannelIds": "33-34 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "04:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "MONTERREY-JUAREZ",
+    "ChannelIds": "25-26 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "12:00 CEST",
+    "Sport": "CYCLING",
+    "Competition": "TOUR OF FRANCE",
+    "EventName": "STAGE 3",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PERU LEAGUE",
+    "EventName": "CIENCIANO-UNIVERSITARIO",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "20:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "FENERBAHCE-ANTALYASPOR",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "31/08/2020",
+    "Time": "20:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PERU LEAGUE",
+    "EventName": "ACADEMIA CANTOLAO-SPORTING CRISTAL",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "MIAMI HEAT-MILWAUKEE BUCKS",
+    "ChannelIds": "15-16 [SPA]17-18 [POR]27-28 [ENG]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "03:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "HOUSTON ROCKETS-OKLAHOMA CITY THUNDER",
+    "ChannelIds": "15-16 [SPA]17-18 [POR]27-28 [ENG]"
+  },
+  {
+    "Date": "01/09/2020",
+    "Time": "04:05 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "CLUB LEON-ATLAS",
+    "ChannelIds": "23-24 [SPA]"
+  }
+]
