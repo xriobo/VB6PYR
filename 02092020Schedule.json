@@ -45,7 +45,7 @@
     "Sport": "SOCCER",
     "Competition": "FRIENDLY MATCH",
     "EventName": "CELTA-LUGO",
-    "ChannelIds": "65 [SPA]"
+    "ChannelIds": "23-24 [SPA]"
   },
   {
     "Date": "02/09/2020",
@@ -53,7 +53,7 @@
     "Sport": "SOCCER",
     "Competition": "FRIENDLY MATCH",
     "EventName": "LEGANES-RAYO VALLECANO",
-    "ChannelIds": "64 [SPA]"
+    "ChannelIds": "66 [SPA]"
   },
   {
     "Date": "02/09/2020",
@@ -85,7 +85,7 @@
     "Sport": "SOCCER",
     "Competition": "FRIENDLY MATCH",
     "EventName": "REAL BETIS-ALMERIA",
-    "ChannelIds": "7-8 [POR]21-22 [SPA]"
+    "ChannelIds": "7-8 [POR]"
   },
   {
     "Date": "02/09/2020",
@@ -93,7 +93,7 @@
     "Sport": "SOCCER",
     "Competition": "FRIENDLY MATCH",
     "EventName": "LEVANTE-CARTAGENA",
-    "ChannelIds": "66 [SPA]"
+    "ChannelIds": "27-28 [SPA]"
   },
   {
     "Date": "02/09/2020",
