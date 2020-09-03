@@ -1,0 +1,298 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "13:00 CEST",
+    "Sport": "CYCLING",
+    "Competition": "TOUR OF FRANCE",
+    "EventName": "STAGE 5",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "15:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "REAL MADRID-REAL BETIS",
+    "ChannelIds": "50 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "17:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "AC MILAN-NOVARA",
+    "ChannelIds": "25-26 [ITA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "CELTA-LUGO",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "LEGANES-RAYO VALLECANO",
+    "ChannelIds": "66 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "MALAGA-ESPANYOL",
+    "ChannelIds": "52 [CAT]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "VILLARREAL-REAL SOCIEDAD",
+    "ChannelIds": "13-14 [SPA]17-18 [POR]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "19:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ECUADOR LEAGUE",
+    "EventName": "LDU PORTOVIEJO-INDEPENDIENTE DEL VALLE",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "19:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "REAL BETIS-ALMERIA",
+    "ChannelIds": "7-8 [POR]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "20:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "LEVANTE-CARTAGENA",
+    "ChannelIds": "27-28 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "21:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ECUADOR LEAGUE",
+    "EventName": "GUAYAQUIL CITY-UNIVERSIDAD CATOLICA",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "21:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "UNICAJA MALAGA-VALENCIA BASKET",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "02/09/2020",
+    "Time": "23:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ECUADOR LEAGUE",
+    "EventName": "OLMEDO-DELFIN",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA PLAYOFFS",
+    "EventName": "MILWAUKEE BUCKS-MIAMI HEAT",
+    "ChannelIds": "15-16 [SPA]21-22 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "USA MLS",
+    "EventName": "NASHVILLE-ORLANDO CITY",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ECUADOR LEAGUE",
+    "EventName": "EL NACIONAL-EMELEC",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "03:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA PLAYOFFS",
+    "EventName": "OKLAHOMA CITY THUNDER-HOUSTON ROCKETS",
+    "ChannelIds": "7-8 [POR]15-16 [SPA]21-22 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "03:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "CLUB AMERICA-MAZATLAN",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "14:00 CEST",
+    "Sport": "CYCLING",
+    "Competition": "TOUR OF FRANCE",
+    "EventName": "STAGE 6",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "17:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "REAL MADRID-BASKONIA",
+    "ChannelIds": "50 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "17:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "UNIVERSIDAD CONCEPCION-UNION ESPANOLA",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "LATVIA-ANDORRA",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "SPORTING GIJON-UD LOGROÑES",
+    "ChannelIds": "45 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "SPORTING PORTUGAL-REAL VALLADOLID",
+    "ChannelIds": "62 [POR]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "20:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "UCAM MURCIA-UNICAJA MALAGA",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "GERMANY-SPAIN",
+    "ChannelIds": "17-18 [POR]19-20 [SPA]23-24 [SPA]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "UKRAINE-SWITZERLAND",
+    "ChannelIds": "7-8 [POR]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "RUSSIA-SERBIA",
+    "ChannelIds": "5-6 [POR]"
+  },
+  {
+    "Date": "03/09/2020",
+    "Time": "22:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "PALESTINO-EVERTON",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA PLAYOFFS",
+    "EventName": "TORONTO RAPTORS-BOSTON CELTICS",
+    "ChannelIds": "15-16 [SPA]27-28 [ENG]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "01:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "URUGUAY LEAGUE",
+    "EventName": "NACIONAL-CERRO",
+    "ChannelIds": "40 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "QUERETARO-TOLUCA",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "03:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA PLAYOFFS",
+    "EventName": "DENVER NUGGETS-LA CLIPPERS",
+    "ChannelIds": "15-16 [SPA]27-28 [ENG]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "04:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "PACHUCA-ATLETICO SAN LUIS",
+    "ChannelIds": "23-24 [SPA]"
+  }
+]
