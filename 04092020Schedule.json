@@ -1,0 +1,186 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "14:00 CEST",
+    "Sport": "CYCLING",
+    "Competition": "TOUR OF FRANCE",
+    "EventName": "STAGE 7",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "14:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHINESE SUPERLEAGUE",
+    "EventName": "GUANGZHOU EVERGRANDE-GUANGZHOU R&F",
+    "ChannelIds": "7-8 [POR]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "15:00 CEST",
+    "Sport": "FORMULA 1",
+    "Competition": "GP ITALY",
+    "EventName": "FREE PRACTICE 2",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "17:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "UNION LA CALERA-COBRESAL",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "SABADELL-HUESCA",
+    "ChannelIds": "25-26 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "LITHUANIA-KAZHASTAN",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "CATALONIA LEAGUE",
+    "EventName": "MORABANC ANDORRA-JOVENTUT",
+    "ChannelIds": "52 [CAT]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "TENERIFE-LAS PALMAS",
+    "ChannelIds": "35 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "ITALIA-BOSNIA & HERZEGOVINA",
+    "ChannelIds": "5-6 [POR]36 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "NETHERLANDS-POLAND",
+    "ChannelIds": "7-8 [POR]23-24 [SPA]25-26 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "SCOTLAND-ISRAEL",
+    "ChannelIds": "37 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "NORWAY-AUSTRIA",
+    "ChannelIds": "38 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "ROMANIA-NORTHERN IRELAND",
+    "ChannelIds": "39 [SPA]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "SPORTING PORTUGAL-REAL VALLADOLID",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "04/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "CATALONIA LEAGUE",
+    "EventName": "MANRESA-FC BARCELONA",
+    "ChannelIds": "52 [CAT]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "LA SERENA-O'HIGGINGS",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA PLAYOFFS",
+    "EventName": "MIAMI HEAT-MILWAUKEE BUCKS",
+    "ChannelIds": "15-16 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "02:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "NECAXA-CLUB LEON",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "03:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA PLAYOFFS",
+    "EventName": "HOUSTON ROCKETS-LOS ANGELES LAKERS",
+    "ChannelIds": "15-16 [SPA]17-18 [POR]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "04:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "TIJUANA-MONTERREY",
+    "ChannelIds": "25-26 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "04:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "JUAREZ-SANTOS LAGUNA",
+    "ChannelIds": "23-24 [SPA]"
+  }
+]
