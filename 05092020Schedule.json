@@ -1,0 +1,346 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "17:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "HERTHA BERLIN-HAMBURGER",
+    "ChannelIds": "5-6 [POR]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "17:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "DEPORTES IQUIQUE-HUACHIPATO",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "ICELAND-ENGLAND",
+    "ChannelIds": "17-18 [POR]23-24 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "CELTA-SPORTING GIJON",
+    "ChannelIds": "27-28 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "VALENCIA-CARTAGENA",
+    "ChannelIds": "1-2 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "19:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDY MATCH",
+    "EventName": "PONFERRADINA-REAL OVIEDO",
+    "ChannelIds": "45 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "19:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDY MATCH",
+    "EventName": "GRANADA-REAL BETIS",
+    "ChannelIds": "67 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "20:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "EUSKADI CUP FINAL",
+    "EventName": "REAL SOCIEDAD-OSASUNA",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "20:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "VILLARREAL-LEVANTE",
+    "ChannelIds": "13-14 [SPA]19-20 [SPA]21-22 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "PORTUGAL-CROATIA",
+    "ChannelIds": "17-18 [POR]23-24 [SPA]25-26 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "SWEDEN-FRANCE",
+    "ChannelIds": "7-8 [POR]36 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "DENMARK-BELGIUM",
+    "ChannelIds": "5-6 [POR]37 [SPA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "AC MILAN-MONZA",
+    "ChannelIds": "38 [ITA]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "MOTORSPORT",
+    "Competition": "WORLD RALLY CHAMPIONSHIP",
+    "EventName": "ESTONIA RALLY HIGHLIGHTS",
+    "ChannelIds": "46 [ENG]"
+  },
+  {
+    "Date": "05/09/2020",
+    "Time": "22:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "WORLD RALLY CHAMPIONSHIP",
+    "EventName": "UNIVERSIDAD CATOLICA-COQUIMBO UNIDO",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "00:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "PUMAS UNAM-PUEBLA",
+    "ChannelIds": "21-22 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "00:00 CEST",
+    "Sport": "MMA",
+    "Competition": "UFC FIGHT NIGHT",
+    "EventName": "OVEREEM-SAKAI",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "TORONTO RAPTORS-BOSTON CELTICS",
+    "ChannelIds": "15-16 [SPA]27-28 [ENG]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "SANTIAGO WANDERERS-CURICO UNIDO",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "ATLAS-CRUZ AZUL",
+    "ChannelIds": "21-22 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "03:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "DENVER NUGGETS-LA CLIPPERS",
+    "ChannelIds": "15-16 [SPA]27-28 [ENG]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "04:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "TIGRES UANL-CHIVAS GUADALAJARA",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "08:00 CEST",
+    "Sport": "MOTORSPORT",
+    "Competition": "WORLD RALLY CHAMPIONSHIP",
+    "EventName": "ESTONIA SS14 KAMBJA",
+    "ChannelIds": "17-18 [POR"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "12:00 CEST",
+    "Sport": "MOTORSPORT",
+    "Competition": "WORLD RALLY CHAMPIONSHIP",
+    "EventName": "ESTONIA POWERSTAGE",
+    "ChannelIds": "7-8 [POR]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "13:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "EFL CUP",
+    "EventName": "BRENTFORD-WYCOMBE",
+    "ChannelIds": "31-32 [ENG]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "13:00 CEST",
+    "Sport": "CYCLING",
+    "Competition": "TOUR OF FRANCE",
+    "EventName": "STAGE 9",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "15:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "WALES-BULGARIA",
+    "ChannelIds": "17-18 [POR]23-24 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "15:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "ANDORRA-FAROE ISLANDS",
+    "ChannelIds": "7-8 [POR]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "15:10 CEST",
+    "Sport": "FORMULA 1",
+    "Competition": "GP ITALY",
+    "EventName": "RACE",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "16:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "CATALONIA LEAGUE",
+    "EventName": "3RD PLACE: JOVENTUT-MANRESA",
+    "ChannelIds": "52 [CAT]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "HUNGARY-RUSSIA",
+    "ChannelIds": "17-18 [POR]23-24 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "IRELAND-FINLAND",
+    "ChannelIds": "7-8 [POR]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "SLOVENIA-MOLDAVIA",
+    "ChannelIds": "5-6 [POR]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "SPAIN-UKRAINE",
+    "ChannelIds": "17-18 [POR]19-20 [SPA]23-24 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "SWITZERLAND-GERMANY",
+    "ChannelIds": "7-8 [POR]36 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "SERBIA-TURKEY",
+    "ChannelIds": "5-6 [POR]37 [SPA]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "CATALONIA LEAGUE",
+    "EventName": "FINAL: ANDORRA-FC BARCELONA",
+    "ChannelIds": "52 [CAT]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "MOTORPORT",
+    "Competition": "WORLD RALLY CHAMPIONSHIP",
+    "EventName": "ESTONIA RALLY HIGHLIGHTS",
+    "ChannelIds": "46 [ENG]"
+  },
+  {
+    "Date": "06/09/2020",
+    "Time": "21:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "MILWAUKEE BUCKS-MIAMI HEAT",
+    "ChannelIds": "13-14 [SPA]33-34 [ENG]"
+  },
+  {
+    "Date": "07/09/2020",
+    "Time": "02:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "HOUSTON ROCKETS-LOS ANGELES LAKERS",
+    "ChannelIds": "15-16 [SPA]17-18 [POR]33-34 [ENG]"
+  }
+]
