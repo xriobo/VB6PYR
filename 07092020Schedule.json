@@ -1,0 +1,82 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "07/09/2020",
+    "Time": "16:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "KAZAKHSTAN-BELARUS",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "07/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "07/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "MOTORSPORT",
+    "Competition": "WORLD RALLY CHAMPIONSHIP",
+    "EventName": "ESTONIA RALLY HIGHLIGHTS",
+    "ChannelIds": "46 [ENG]"
+  },
+  {
+    "Date": "07/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "NETHERLANDS-ITALY",
+    "ChannelIds": "17-18 [POR]23-24 [SPA]25-26 [SPA]"
+  },
+  {
+    "Date": "07/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "BOSNIA & HERZEGOVINA-POLAND",
+    "ChannelIds": "7-8 [POR]36 [SPA]"
+  },
+  {
+    "Date": "07/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "NORTHERN IRELAND-NORWAY",
+    "ChannelIds": "5-6 [POR]37 [SPA]"
+  },
+  {
+    "Date": "07/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "AUSTRIA-ROMANIA",
+    "ChannelIds": "38 [SPA]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "BOSTON CELTICS-TORONTO RAPTORS",
+    "ChannelIds": "5-6 [POR]13-14 [SPA]27-28 [ENG]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "03:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA",
+    "EventName": "LA CLIPPERS-DENVER NUGGETS",
+    "ChannelIds": "15-16 [SPA]27-28 [ENG]"
+  }
+]
