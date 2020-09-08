@@ -1,0 +1,146 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "14:00 CEST",
+    "Sport": "CYCLING",
+    "Competition": "TOUR OF FRANCE",
+    "EventName": "STAGE 10",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "16:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "UNIVERSIDAD CONCEPCION-UNION LA CALERA",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "ARMENIA-ESTONIA",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "GEORGIA-MACEDONIA",
+    "ChannelIds": "7-8 [POR]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "SWEDEN-PORTUGAL",
+    "ChannelIds": "17-18 [POR]23-24 [SPA]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "FRANCE-CROATIA",
+    "ChannelIds": "7-8 [POR]25-26 [SPA]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "DENMARK-ENGLAND",
+    "ChannelIds": "5-6 [POR]36 [SPA]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA NATIONS LEAGUE",
+    "EventName": "BELGIUM-ICELAND",
+    "ChannelIds": "37 [SPA]"
+  },
+  {
+    "Date": "08/09/2020",
+    "Time": "23:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "UNION ESPANOLA-SANTIAGO WANDERERS",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "09/09/2020",
+    "Time": "00:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "ATLETICO SAN LUIS-NECAXA",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "09/09/2020",
+    "Time": "00:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA PLAYOFFS",
+    "EventName": "MIAMI HEAT-MILWAUKEE BUCKS",
+    "ChannelIds": "15-16 [SPA]"
+  },
+  {
+    "Date": "09/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "TOLUCA-JUAREZ",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "09/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "MONTERREY-ATLAS",
+    "ChannelIds": "25-26 [SPA]"
+  },
+  {
+    "Date": "09/09/2020",
+    "Time": "03:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA PLAYOFFS",
+    "EventName": "LOS ANGELES LAKERS-HOUSTON ROCKETS",
+    "ChannelIds": "15-16 [SPA]"
+  },
+  {
+    "Date": "09/09/2020",
+    "Time": "04:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "CHIVAS GUADALAJARA-QUERETARO",
+    "ChannelIds": "27-28 [SPA]"
+  },
+  {
+    "Date": "09/09/2020",
+    "Time": "04:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "PUEBLA-CLUB AMERICA",
+    "ChannelIds": "23-24 [SPA]"
+  }
+]
