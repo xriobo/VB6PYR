@@ -1,0 +1,322 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "11:00 CEST",
+    "Sport": "MOTOGP",
+    "Competition": "GP SAN MARINO",
+    "EventName": "MOTO3 RACE",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "12:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE 2",
+    "EventName": "REAL OVIEDO-CARTAGENA",
+    "ChannelIds": "1-2 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "12:20 CEST",
+    "Sport": "MOTOGP",
+    "Competition": "GP SAN MARINO",
+    "EventName": "MOTO2 RACE",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "13:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "LIGUE 1",
+    "EventName": "LILLE-METZ",
+    "ChannelIds": "27-28 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "13:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ENGLISH LEAGUE ONE",
+    "EventName": "IPSWICH TOWN-WIGAN ATHLETIC",
+    "ChannelIds": "25-26 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "14:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "DEPORTIVO ALAVES-REAL BETIS",
+    "ChannelIds": "1-2 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "14:00 CEST",
+    "Sport": "MOTOGP",
+    "Competition": "GP SAN MARINO",
+    "EventName": "MOTOGP RACE",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "14:00 CEST",
+    "Sport": "CYCLING",
+    "Competition": "TOUR OF FRANCE",
+    "EventName": "STAGE 15",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "14:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "EREDIVISIE",
+    "EventName": "SPARTA ROTTERDAM-AJAX",
+    "ChannelIds": "5-6 [POR]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "15:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PREMIER LEAGUE",
+    "EventName": "WEST BROMWICH ALBION-LEICESTER CITY",
+    "ChannelIds": "7-8 [POR]25-26 [ENG]33-34 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "15:10 CEST",
+    "Sport": "FORMULA 1",
+    "Competition": "GP TOSCANA",
+    "EventName": "RACE",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "15:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "DFB POKAL",
+    "EventName": "EINTRACHT NORDERSTEDT-BAYER LEVERKUSEN",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "16:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "REAL VALLADOLID-REAL SOCIEDAD",
+    "ChannelIds": "1-2 [SPA]29-30 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "16:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE 2",
+    "EventName": "REAL MALLORCA-RAYO VALLECANO",
+    "ChannelIds": "13-14 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "16:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "SANTIAGO WANDERERS-HUACHIPATO",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "16:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "EREDIVISIE",
+    "EventName": "GRONINGEN-PSV EINDHOVEN",
+    "ChannelIds": "5-6 [POR]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "17:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "LIGUE 1",
+    "EventName": "AS MONACO-NANTES",
+    "ChannelIds": "27-28 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "17:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PREMIER LEAGUE",
+    "EventName": "TOTTENHAM HOTSPUR-EVERTON",
+    "ChannelIds": "17-18 [POR]25-26 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "18:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE 2",
+    "EventName": "FUENLABRADA-LUGO",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "SPANISH SUPERCUP",
+    "EventName": "FINAL: FC BARCELONA-REAL MADRID",
+    "ChannelIds": "13-14 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "VILLARREAL-HUESCA",
+    "ChannelIds": "1-2 [SPA]29-30 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "PUMAS UNAM-ATLETICO SAN LUIS",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "FOOTBALL",
+    "Competition": "USA NFL",
+    "EventName": "MIAMI DOLPHINS-NEW ENGLAND PATRIOTS",
+    "ChannelIds": "15-16 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "FOOTBALL",
+    "Competition": "USA NFL",
+    "EventName": "BUFFALO BILLS-NEW YORK JETS",
+    "ChannelIds": "36 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "FOOTBALL",
+    "Competition": "USA NFL",
+    "EventName": "WASHINGTON-PHILADELPHIA EAGLES",
+    "ChannelIds": "37 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "FOOTBALL",
+    "Competition": "USA NFL",
+    "EventName": "MINNESOTA VIKINGS-GREEN BAY PACKERS",
+    "ChannelIds": "38 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "20:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "SPORTING PORTUGAL-NAPOLI",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "LIGUE 1",
+    "EventName": "PARIS SAINT GERMAIN-OLYMPIQUE MARSEILLE",
+    "ChannelIds": "13-14 [SPA]29-30 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "VALENCIA-LEVANTE",
+    "ChannelIds": "1-2 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE 2",
+    "EventName": "TENERIFE-MALAGA",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "UNIVERSIDAD CATOLICA-AUDAX ITALIANO",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "22:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "US OPEN 2020: MEN FINAL",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "22:05 CEST",
+    "Sport": "FOOTBALL",
+    "Competition": "USA NFL",
+    "EventName": "CINCINNATI BENGALS-LOS ANGELES CHARGERS",
+    "ChannelIds": "36 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "22:25 CEST",
+    "Sport": "FOOTBALL",
+    "Competition": "USA NFL",
+    "EventName": "TAMPA BAY BUCCANEERS-NEW ORLEANS SAINTS",
+    "ChannelIds": "15-16 [SPA]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "22:25 CEST",
+    "Sport": "FOOTBALL",
+    "Competition": "USA NFL",
+    "EventName": "SAN FRANCISCO 49ERS-ARIZONA CARDINALS",
+    "ChannelIds": "37 [ENG]"
+  },
+  {
+    "Date": "13/09/2020",
+    "Time": "23:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "CHILE LEAGUE",
+    "EventName": "O'HIGGINGS-EVERTON",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "14/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "QUETERARO-CLUB LEON",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "14/09/2020",
+    "Time": "02:20 CEST",
+    "Sport": "FOOTBALL",
+    "Competition": "USA NFL",
+    "EventName": "DALLAS COWBOYS-LOS ANGELES RAMS",
+    "ChannelIds": "13-14 [SPA]"
+  },
+  {
+    "Date": "14/09/2020",
+    "Time": "04:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "TIJUANA-CRUZ AZUL",
+    "ChannelIds": "23-24 [SPA]"
+  }
+]
