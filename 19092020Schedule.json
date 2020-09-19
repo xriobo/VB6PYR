@@ -1,0 +1,210 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "17:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PORTUGAL LEAGUE",
+    "EventName": "NACIONAL-BOAVISTA",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ITALY SERIE A",
+    "EventName": "FIORENTINA-TORINO",
+    "ChannelIds": "5-6 [POR]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "TURKISH LEAGUE",
+    "EventName": "BESIKTAS-ANTALYASPOR",
+    "ChannelIds": "29-30 [ENG]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "POLISH LEAGUE",
+    "EventName": "POGON SZCZECIN-SLASK WROCLAW",
+    "ChannelIds": "36 [GER]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "18:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE 2",
+    "EventName": "ALCORCON-TENERIFE",
+    "ChannelIds": "13-14 [SPA]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "18:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE 2",
+    "EventName": "CASTELLON-MALAGA",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "GETAFE-OSASUNA",
+    "ChannelIds": "1-2 [SPA]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PREMIER LEAGUE",
+    "EventName": "MANCHESTER UNITED-CRYSTAL PALACE",
+    "ChannelIds": "7-8 [POR]25-26 [ENG]31-32 [SPA]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "BUNDESLIGA",
+    "EventName": "BORUSSIA DORTMUND-BORUSSIA MONCHENGLADBACH",
+    "ChannelIds": "3-4 [SPA]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "ATP WORLD TOUR",
+    "EventName": "MASTERS 1000 ROMA",
+    "ChannelIds": "5-6 [POR]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "FC BARCELONA-ELCHE",
+    "ChannelIds": "19-20 [CAT]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "19:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PORTUGAL LEAGUE",
+    "EventName": "SPORTING PORTUGAL-GIL VICENTE",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "20:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "EREDIVISIE",
+    "EventName": "PSV EINDHOVEN-EMMEN",
+    "ChannelIds": "36 [GER]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ITALY SERIE A",
+    "EventName": "HELLAS VERONA-AS ROMA",
+    "ChannelIds": "31-32 [SPA]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "GUIPUZKOA BASKET-REAL MADRID",
+    "ChannelIds": "13-14 [SPA]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PREMIER LEAGUE",
+    "EventName": "ARSENAL-WEST HAM UNITED",
+    "ChannelIds": "7-8 [POR]25-26 [ENG]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "LIGUE 1",
+    "EventName": "RENNES-AS MONACO",
+    "ChannelIds": "3-4 [SPA]29-30 [ENG]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "CELTA-VALENCIA",
+    "ChannelIds": "1-2 [SPA]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE 2",
+    "EventName": "RAYO VALLECANO-SABADELL",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "19/09/2020",
+    "Time": "22:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "PORTUGAL LEAGUE",
+    "EventName": "FC PORTO-SPORTING BRAGA",
+    "ChannelIds": "17-18 [POR]36 [GER]"
+  },
+  {
+    "Date": "20/09/2020",
+    "Time": "00:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "ATLAS-PACHUCA",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "20/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "MMA",
+    "Competition": "UFC FIGHT NIGHT",
+    "EventName": "COVINGTON-WOODLEY",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "20/09/2020",
+    "Time": "02:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "TIGRES UANL-QUERETARO",
+    "ChannelIds": "23-24 [SPA]"
+  },
+  {
+    "Date": "20/09/2020",
+    "Time": "02:30 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA FINALS",
+    "EventName": "BOSTON CELTICS-MIAMI HEAT",
+    "ChannelIds": "15-16 [SPA]"
+  },
+  {
+    "Date": "20/09/2020",
+    "Time": "04:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "CLUB AMERICA-CHIVAS GUADALAJARA",
+    "ChannelIds": "23-24 [SPA]"
+  }
+]
