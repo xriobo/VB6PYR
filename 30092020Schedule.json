@@ -1,0 +1,226 @@
+[
+  {
+    "Date": "DAY",
+    "Time": "TIME",
+    "Sport": "SPORT",
+    "Competition": "COMPETITION",
+    "EventName": "EVENT",
+    "ChannelIds": "LIVE"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "11:00 CEST",
+    "Sport": "TENNIS",
+    "Competition": "GRAND SLAM",
+    "EventName": "ROLAND GARROS",
+    "ChannelIds": "11-12 [SPA]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ITALY SERIE A",
+    "EventName": "BENEVENTO-INTER MILAN",
+    "ChannelIds": "3-4 [SPA]17-18 [POR]23-24 [ENG]27-28 [ENG]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "18:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ITALY SERIE A",
+    "EventName": "UDINESE-SPEZIA",
+    "ChannelIds": "5-6 [POR]25-26 [ENG]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "18:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "EFL CUP",
+    "EventName": "NEWPORT COUNTY-NEWCASTLE",
+    "ChannelIds": "21-22 [ENG]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "HUESCA-ATLETICO MADRID",
+    "ChannelIds": "1-2 [SPA]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "19:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "VILLARREAL-DEPORTIVO ALAVES",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "20:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "EFL CUP",
+    "EventName": "BURNLEY-MANCHESTER CITY",
+    "ChannelIds": "7-8 [POR]23-24 [ENG]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "20:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "DFB GERMAN SUPER CUP",
+    "EventName": "BAYERN MUNICH-BORUSSIA DORTMUND",
+    "ChannelIds": "13-14 [SPA]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "ITALY SERIE A",
+    "EventName": "LAZIO-ATALANTA",
+    "ChannelIds": "3-4 [SPA]5-6 [POR]27-28 [ENG]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "EFL CUP",
+    "EventName": "BRIGHTON & HOVE ALBION-MANCHESTER UNITED",
+    "ChannelIds": "17-18 [POR]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "20:45 CEST",
+    "Sport": "SOCCER",
+    "Competition": "EFL CUP",
+    "EventName": "EVERTON-WEST HAM UNITED",
+    "ChannelIds": "25-26 [ENG]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA CHAMPIONS LEAGUE",
+    "EventName": "PAOK-KRASNODAR",
+    "ChannelIds": "36 [SPA]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA CHAMPIONS LEAGUE",
+    "EventName": "MIDTJYLLAND-SLAVIA PRAGUE",
+    "ChannelIds": "38 [SPA]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "21:00 CEST",
+    "Sport": "SOCCER",
+    "Competition": "UEFA CHAMPIONS LEAGUE",
+    "EventName": "RB SALZBURG-MACCABI TEL AVIV",
+    "ChannelIds": "37 [SPA]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "21:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "REAL MADRID-REAL VALLADOLID",
+    "ChannelIds": "1-2 [SPA]"
+  },
+  {
+    "Date": "30/09/2020",
+    "Time": "21:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "SPANISH LEAGUE",
+    "EventName": "EIBAR-ELCHE",
+    "ChannelIds": "9-10 [SPA]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "00:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "COPA LIBERTADORES",
+    "EventName": "PALMEIRAS-BOLIVAR",
+    "ChannelIds": "17-18 [POR]21-22 [ENG]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "00:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "COPA LIBERTADORES",
+    "EventName": "NACIONAL-RACING CLUB",
+    "ChannelIds": "5-6 [POR]23-24 [ENG]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "00:15 CEST",
+    "Sport": "SOCCER",
+    "Competition": "COPA LIBERTADORES",
+    "EventName": "CARACAS-MEDELLIN",
+    "ChannelIds": "25-26 [ENG]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "02:06 CEST",
+    "Sport": "SOCCER",
+    "Competition": "MEXICO LIGA MX",
+    "EventName": "TIJUANA-JUAREZ",
+    "ChannelIds": "27-28 [SPA]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "02:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "COPA LIBERTADORES",
+    "EventName": "FLAMENGO-INDEPENDIENTE DEL VALLE",
+    "ChannelIds": "5-6 [POR]21-22 [ENG]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "02:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "COPA LIBERTADORES",
+    "EventName": "ALIANZA LIMA-ESTUDIANTES MERIDA",
+    "ChannelIds": "333-34 [ENG]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "02:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "COPA LIBERTADORES",
+    "EventName": "RIVER PLATE-SAO PAULO",
+    "ChannelIds": "7-8 [POR]23-24 [ENG]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "02:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "COPA LIBERTADORES",
+    "EventName": "JUNIOR-SC BARCELONA",
+    "ChannelIds": "25-26 [ENG]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "03:00 CEST",
+    "Sport": "BASKETBALL",
+    "Competition": "USA NBA FINALS",
+    "EventName": "MIAMI HEAT-LOS ANGELES LAKERS",
+    "ChannelIds": "13-14 [SPA]17-18 [POR]31-32 [ENG]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "03:10 CEST",
+    "Sport": "SOCCER",
+    "Competition": "COLOMBIA PRIMERA",
+    "EventName": "ATLETICO NACIONAL-DEPORTES TOLIMA",
+    "ChannelIds": "19-20 [SPA]"
+  },
+  {
+    "Date": "01/10/2020",
+    "Time": "03:30 CEST",
+    "Sport": "SOCCER",
+    "Competition": "FRIENDLY MATCH",
+    "EventName": "MEXICO-GUATEMALA",
+    "ChannelIds": "27-28 [SPA]"
+  }
+]
