@@ -1,0 +1,33 @@
+[
+  {
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/71834.html",
+      "https://sport-streaming.me/capodeportes/stream/70.php",
+      "https://sport-streaming.me/capodeportes/cast/70.php"
+    ],
+    "Time": "03:00",
+    "Event": " Liga MX, Clausura:  Pachuca vs Tigres UANL"
+  },
+  {
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/cast/45.php"
+    ],
+    "Time": "03:00",
+    "Event": " NBA:  Portland Trail Blazers vs New Orleans Pelicans"
+  },
+  {
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/cast/44.php"
+    ],
+    "Time": "03:00",
+    "Event": " NBA:  Phoenix Suns vs Minnesota Timberwolves"
+  },
+  {
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/cast/46.php",
+      "https://sport-streaming.me/capodeportes/stream/46.php"
+    ],
+    "Time": "03:30",
+    "Event": " NBA:  Los Angeles Lakers vs Charlotte Hornets"
+  }
+]
