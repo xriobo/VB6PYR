@@ -1,23 +1,17 @@
 [
   {
-    "HtmlUrls": [
-      "https://sport-streaming.me/capodeportes/cast/49.php"
-    ],
+    "HtmlUrls": [],
     "Time": "03:00",
     "Event": " NBA:  Phoenix Suns vs Minnesota Timberwolves"
   },
   {
-    "HtmlUrls": [
-      "https://sport-streaming.me/capodeportes/cast/50.php"
-    ],
+    "HtmlUrls": [],
     "Time": "03:00",
     "Event": " NBA:  Portland Trail Blazers vs Dallas Mavericks"
   },
   {
     "HtmlUrls": [
-      "https://bundesliga-live.stream/stream/71834.html",
-      "https://sport-streaming.me/capodeportes/stream/63.php",
-      "https://sport-streaming.me/capodeportes/cast/63.php"
+      "https://sport-streaming.me/capodeportes/stream/63.php"
     ],
     "Time": "04:00",
     "Event": " Liga MX, Clausura:  Mazatlan FC vs Club America"
@@ -90,15 +84,12 @@
     "Event": " Bundesliga:  Eintracht Frankfurt vs Union Berlin"
   },
   {
-    "HtmlUrls": [
-      "https://sport-streaming.me/capodeportes/stream/25.php"
-    ],
+    "HtmlUrls": [],
     "Time": "15:30",
     "Event": " Bundesliga:  Werder Bremen vs Wolfsburgo"
   },
   {
     "HtmlUrls": [
-      "https://sport-streaming.me/capodeportes/cast/30.php",
       "https://bundesliga-live.stream/stream/71834.html"
     ],
     "Time": "16:15",
@@ -168,6 +159,7 @@
   {
     "HtmlUrls": [
       "https://sport-streaming.me/capodeportes/cast/41.php",
+      "https://sport-streaming.me/capodeportes/cast/42.php",
       "https://sport-streaming.me/capodeportes/cast/43.php"
     ],
     "Time": "18:00",
