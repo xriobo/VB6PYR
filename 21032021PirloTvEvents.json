@@ -543,5 +543,12 @@
     ],
     "Time": "03:00",
     "Event": " NBA:  Phoenix Suns vs Los Angeles Lakers"
+  },
+  {
+    "HtmlUrls": [
+      "http://127.0.0.1:6878/ace/manifest.m3u8?url=https://uiyekehcndkbjkdjcbkhd.arenacloud.business/ingest01d/07pb.php?www.arenavision.live_7696238"
+    ],
+    "Time": "All day",
+    "Event": "Canal 7,8 Arenavision (pegar acestream->Red)"
   }
 ]
