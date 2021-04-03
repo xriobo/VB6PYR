@@ -1,438 +1,690 @@
 [
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/54014.html",
+      "https://sport-streaming.me/capodeportes/stream/32.php",
+      "https://sport-streaming.me/capodeportes/tele/32.php"
+    ],
     "Time": "12:30",
     "Event": " Serie A:  AC Milan vs Sampdoria"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/cast/39.php"
+    ],
     "Time": "12:30",
     "Event": " Serie A:  AC Milan vs Sampdoria (IT)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/33.php",
+      "https://sport-streaming.me/capodeportes/tele/5.php"
+    ],
     "Time": "13:00",
     "Event": " Ligue 1:  AS Monaco vs Metz"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/24.php"
+    ],
     "Time": "13:00",
     "Event": " Bundesliga 2:  Heidenheim vs Greuther Furth"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/25.php"
+    ],
     "Time": "13:00",
     "Event": " Bundesliga 2:  Karlsruher vs Osnabruck"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/23.php"
+    ],
     "Time": "13:00",
     "Event": " Bundesliga 2:  Bochum vs Holstein Kiel"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/29.php",
+      "https://sport-streaming.me/capodeportes/tele/29.php",
+      "https://sport-streaming.me/capodeportes/cast/29.php"
+    ],
     "Time": "13:30",
     "Event": " Premier League:  Chelsea vs West Bromwich Albion"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://allfeeds.live/stream/99608.html"
+    ],
     "Time": "13:30",
     "Event": " Premier League:  Chelsea vs West Bromwich Albion (EN)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99652.html"
+    ],
     "Time": "13:30",
     "Event": " Inglaterra Championship:  Huddersfield Town vs Brentford"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/30.php",
+      "https://sport-streaming.me/capodeportes/tele/30.php",
+      "https://sport-streaming.me/capodeportes/cast/30.php"
+    ],
     "Time": "14:00",
     "Event": " LaLiga:  Granada vs Villarreal"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/31.php",
+      "https://sport-streaming.me/capodeportes/tele/31.php"
+    ],
     "Time": "14:00",
     "Event": " LaLiga SmartBank:  Logroñes vs Tenerife"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/54014.html",
+      "https://sport-streaming.me/capodeportes/stream/32.php"
+    ],
     "Time": "15:00",
     "Event": " Serie A:  Atalanta vs Udinese"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/tele/32.php"
+    ],
     "Time": "15:00",
     "Event": " Serie A:  Atalanta vs Udinese (IT)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99626.html",
+      "https://sport-streaming.me/capodeportes/stream/34.php"
+    ],
     "Time": "15:00",
     "Event": " Serie A:  Sassuolo vs AS Roma"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/tele/39.php"
+    ],
     "Time": "15:00",
     "Event": " Serie A:  Sassuolo vs AS Roma (IT)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99625.html",
+      "https://sport-streaming.me/capodeportes/stream/31.php"
+    ],
     "Time": "15:00",
     "Event": " Serie A:  Napoli vs Crotone"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99621.html"
+    ],
     "Time": "15:00",
     "Event": " Serie A:  Benevento vs Parma"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99622.html"
+    ],
     "Time": "15:00",
     "Event": " Serie A:  Cagliari vs Hellas Verona"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99623.html"
+    ],
     "Time": "15:00",
     "Event": " Serie A:  Genova vs Fiorentina"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99624.html"
+    ],
     "Time": "15:00",
     "Event": " Serie A:  Lazio Roma vs Spezia"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/33.php",
+      "https://sport-streaming.me/capodeportes/tele/33.php"
+    ],
     "Time": "15:30",
     "Event": " Bundesliga:  Borussia Dortmund vs Eintracht Frankfurt"
   },
   {
     "HtmlUrls": [
-      "https://www.pirlotvonline.org/2021/dortmund-vs-eintracht-frankfurt-en-vivo.php"
+      "https://sport-streaming.me/capodeportes/cast/22.php"
     ],
     "Time": "15:30",
     "Event": " Bundesliga:  Borussia Dortmund vs Eintracht Frankfurt (DE)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/23.php"
+    ],
     "Time": "15:30",
     "Event": " Bundesliga:  Bayer Leverkusen vs Schalke 04"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/25.php"
+    ],
     "Time": "15:30",
     "Event": " Bundesliga:  Augsburgo vs Hoffenheim"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/26.php"
+    ],
     "Time": "15:30",
     "Event": " Bundesliga:  Mainz 05 vs Arminia Bielefeld"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/24.php"
+    ],
     "Time": "15:30",
     "Event": " Bundesliga:  Wolfsburgo vs Colonia"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/29.php",
+      "https://sport-streaming.me/capodeportes/tele/29.php",
+      "https://sport-streaming.me/capodeportes/cast/29.php"
+    ],
     "Time": "16:00",
     "Event": " Premier League:  Leeds United vs Sheffield United"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://allfeeds.live/stream/99608.html"
+    ],
     "Time": "16:00",
     "Event": " Premier League:  Leeds United vs Sheffield United (EN)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/31.php",
+      "https://sport-streaming.me/capodeportes/tele/31.php"
+    ],
     "Time": "16:00",
     "Event": " LaLiga SmartBank:  Girona vs Ponferradina"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/67.php",
+      "https://sport-streaming.me/capodeportes/tele/67.php"
+    ],
     "Time": "16:00",
     "Event": " Chile Primera Division:  Melipilla vs Ñublense"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/30.php",
+      "https://sport-streaming.me/capodeportes/tele/30.php",
+      "https://sport-streaming.me/capodeportes/cast/30.php",
+      "https://bundesliga-live.stream/stream/54013.html",
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "16:15",
     "Event": " LaLiga:  Real Madrid vs Eibar"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/50.php",
+      "https://sport-streaming.me/capodeportes/tele/50.php",
+      "https://sport-streaming.me/capodeportes/cast/50.php",
+      "https://telerium.digital/embed/25554.html",
+      "https://v6.sportzonline.to/channels/hd/hd2.php"
+    ],
     "Time": "16:30",
     "Event": " MotoGP:  GP de Doha, Clasificacion"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://allfeeds.live/stream/97769.html",
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "17:00",
     "Event": " Ligue 1:  Paris Saint-Germain vs Lille"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/54014.html",
+      "https://sport-streaming.me/capodeportes/stream/32.php",
+      "https://sport-streaming.me/capodeportes/tele/32.php"
+    ],
     "Time": "18:00",
     "Event": " Serie A:  Torino vs Juventus"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/cast/39.php"
+    ],
     "Time": "18:00",
     "Event": " Serie A:  Torino vs Juventus (IT)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/24.php",
+      "https://sport-streaming.me/capodeportes/tele/22.php"
+    ],
     "Time": "18:00",
     "Event": " Liga Endesa ACB:  Urbas Fuenlabrada vs Monbus Obradoiro"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/22.php",
+      "https://sport-streaming.me/capodeportes/tele/22.php"
+    ],
     "Time": "18:00",
     "Event": " Liga Endesa ACB:  RETAbet Bilbao Basket vs BAXI Manresa"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99580.html"
+    ],
     "Time": "18:00",
     "Event": " Turquia Super Lig:  Hatayspor vs Galatasaray"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/47.php"
+    ],
     "Time": "18:45",
     "Event": " Eredivisie:  VVV-Venlo vs Groningen"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/31.php",
+      "https://sport-streaming.me/capodeportes/tele/31.php"
+    ],
     "Time": "18:15",
     "Event": " LaLiga SmartBank:  Castellon vs Real Oviedo"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/30.php",
+      "https://sport-streaming.me/capodeportes/tele/30.php",
+      "https://sport-streaming.me/capodeportes/cast/30.php"
+    ],
     "Time": "18:30",
     "Event": " LaLiga:  Osasuna vs Getafe"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/29.php",
+      "https://sport-streaming.me/capodeportes/tele/29.php",
+      "https://sport-streaming.me/capodeportes/cast/29.php"
+    ],
     "Time": "18:30",
     "Event": " Premier League:  Leicester City vs Manchester City"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://allfeeds.live/stream/99608.html"
+    ],
     "Time": "18:30",
     "Event": " Premier League:  Leicester City vs Manchester City (EN)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/33.php",
+      "https://sport-streaming.me/capodeportes/tele/33.php"
+    ],
     "Time": "18:30",
     "Event": " Bundesliga:  RB Leipzig vs Bayern Munich"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/cast/22.php"
+    ],
     "Time": "18:30",
     "Event": " Bundesliga:  RB Leipzig vs Bayern Munich (DE)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/98132.html",
+      "https://sport-streaming.me/capodeportes/tele/65.php"
+    ],
     "Time": "19:00",
     "Event": " Argentina Primera Division:  Talleres Cordoba vs Independiente"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "19:00",
     "Event": " Primeira Liga:  Rio Ave vs Gil Vicente"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "20:00",
     "Event": " Eredivisie:  Twente vs Vitesse"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "20:00",
     "Event": " Eredivisie:  Willem II vs AZ Alkmaar"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/33.php"
+    ],
     "Time": "20:00",
     "Event": " Boxeo Internacional:  Jamel Herring vs Carl Frampton"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/24.php",
+      "https://sport-streaming.me/capodeportes/stream/25.php"
+    ],
     "Time": "20:30",
     "Event": " Bundesliga:  Borussia Monchengladbach vs Freiburgo"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/54014.html",
+      "https://sport-streaming.me/capodeportes/stream/32.php",
+      "https://sport-streaming.me/capodeportes/tele/32.php"
+    ],
     "Time": "20:45",
     "Event": " Serie A:  Bolonia vs Inter Milan"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/cast/39.php"
+    ],
     "Time": "20:45",
     "Event": " Serie A:  Bolonia vs Inter Milan (IT)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/24.php",
+      "https://sport-streaming.me/capodeportes/tele/22.php"
+    ],
     "Time": "20:45",
     "Event": " Liga Endesa ACB:  Coosur Real Betis vs Lenovo Tenerife"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/22.php",
+      "https://sport-streaming.me/capodeportes/tele/22.php"
+    ],
     "Time": "20:45",
     "Event": " Liga Endesa ACB:  Herbalife Gran Canaria vs Casademont Zaragoza"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/29.php",
+      "https://sport-streaming.me/capodeportes/tele/29.php",
+      "https://sport-streaming.me/capodeportes/cast/29.php"
+    ],
     "Time": "21:00",
     "Event": " Premier League:  Arsenal vs Liverpool"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://allfeeds.live/stream/99608.html"
+    ],
     "Time": "21:00",
     "Event": " Premier League:  Arsenal vs Liverpool (EN)"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/23.php",
+      "https://bundesliga-live.stream/stream/99652.html"
+    ],
     "Time": "21:00",
     "Event": " Ligue 1:  Lens vs Olympique Lyon"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/tele/5.php"
+    ],
     "Time": "21:00",
     "Event": " Eredivisie:  Sparta Rotterdam vs PEC Zwolle"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/98132.html",
+      "https://sport-streaming.me/capodeportes/tele/65.php"
+    ],
     "Time": "21:15",
     "Event": " Argentina Primera Division:  Sarmiento Junin vs Atletico Tucuman"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/64.php",
+      "https://sport-streaming.me/capodeportes/tele/64.php"
+    ],
     "Time": "21:15",
     "Event": " Argentina Primera Division:  Gimnasia La Plata vs Lanus"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/30.php",
+      "https://sport-streaming.me/capodeportes/tele/30.php",
+      "https://sport-streaming.me/capodeportes/cast/30.php",
+      "https://www.capodeportes.net/reproductor/canal4.php",
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "21:30",
     "Event": " Copa del Rey:  Athletic Club vs Real Sociedad"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/69.php",
+      "https://sport-streaming.me/capodeportes/tele/69.php"
+    ],
     "Time": "21:30",
     "Event": " Ecuador Serie A:  Delfin vs Deportivo Cuenca"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99625.html"
+    ],
     "Time": "21:30",
     "Event": " Primeira Liga:  FC Porto vs Santa Clara"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/67.php",
+      "https://sport-streaming.me/capodeportes/tele/67.php",
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "23:00",
     "Event": " Chile Primera Division:  Universidad de Chile vs Huachipato"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99621.html",
+      "https://bundesliga-live.stream/stream/99622.html"
+    ],
     "Time": "23:00",
     "Event": " Baloncesto Colegial (NCAA):  Houston vs Baylor"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/64.php",
+      "https://sport-streaming.me/capodeportes/tele/64.php",
+      "https://sport-streaming.me/capodeportes/tele/22.php"
+    ],
     "Time": "23:30",
     "Event": " Argentina Primera Division:  Boca Juniors vs Defensa y Justicia"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/69.php",
+      "https://sport-streaming.me/capodeportes/tele/69.php",
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "00:00",
     "Event": " Ecuador Serie A:  LDU Quito vs Mushuc Runa"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/62.php",
+      "https://sport-streaming.me/capodeportes/tele/61.php",
+      "https://sport-streaming.me/capodeportes/cast/62.php"
+    ],
     "Time": "01:00",
     "Event": " Liga MX, Clausura:  Atlas vs Tijuana de Caliente"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/31.php"
+    ],
     "Time": "01:00",
     "Event": " NBA:  Washington Wizards vs Dallas Mavericks"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/68.php",
+      "https://sport-streaming.me/capodeportes/tele/68.php",
+      "https://sport-streaming.me/capodeportes/tele/22.php"
+    ],
     "Time": "01:05",
     "Event": " Colombia Primera A:  Atletico Nacional vs Envigado"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/67.php",
+      "https://sport-streaming.me/capodeportes/tele/67.php",
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "01:30",
     "Event": " Chile Primera Division:  Cobresal vs Colo Colo"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/98132.html",
+      "https://sport-streaming.me/capodeportes/tele/65.php",
+      "https://sport-streaming.me/capodeportes/tele/22.php"
+    ],
     "Time": "02:00",
     "Event": " Argentina Primera Division:  Arsenal de Sarandi vs River Plate"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99623.html"
+    ],
     "Time": "02:00",
     "Event": " NBA:  Philadelphia 76ers vs Minnesota Timberwolves"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99624.html"
+    ],
     "Time": "02:00",
     "Event": " NBA:  Miami Heat vs Cleveland Cavaliers"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/23.php"
+    ],
     "Time": "02:00",
     "Event": " NBA:  Detroit Pistons vs New York Knicks"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99621.html",
+      "https://bundesliga-live.stream/stream/99622.html"
+    ],
     "Time": "02:00",
     "Event": " Baloncesto Colegial (NCAA):  UCLA vs Gonzaga"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/62.php",
+      "https://sport-streaming.me/capodeportes/tele/61.php",
+      "https://sport-streaming.me/capodeportes/cast/62.php"
+    ],
     "Time": "03:00",
     "Event": " Liga MX, Clausura:  Club America vs Necaxa"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/69.php",
+      "https://sport-streaming.me/capodeportes/tele/69.php",
+      "https://bundesliga-live.stream/stream/54013.html"
+    ],
     "Time": "03:00",
     "Event": " Ecuador Serie A:  Barcelona SC vs Independiente del Valle"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/25.php"
+    ],
     "Time": "03:00",
     "Event": " NBA:  San Antonio Spurs vs Indiana Pacers"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/26.php",
+      "https://sport-streaming.me/capodeportes/stream/24.php"
+    ],
     "Time": "03:00",
     "Event": " NBA:  Utah Jazz vs Orlando Magic"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/68.php",
+      "https://sport-streaming.me/capodeportes/tele/68.php",
+      "https://sport-streaming.me/capodeportes/tele/22.php"
+    ],
     "Time": "03:10",
     "Event": " Colombia Primera A:  Millonarios vs Deportes Tolima"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://allfeeds.live/stream/97769.html"
+    ],
     "Time": "03:15",
     "Event": " Campeonato Gaucho:  Gremio vs Internacional"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/99580.html"
+    ],
     "Time": "04:00",
     "Event": " NBA:  Portland Trail Blazers vs Oklahoma City Thunder"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/47.php"
+    ],
     "Time": "04:00",
     "Event": " NBA:  Sacramento Kings vs Milwaukee Bucks"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://bundesliga-live.stream/stream/54013.html",
+      "https://allfeeds.live/stream/99608.html",
+      "https://sport-streaming.me/capodeportes/cast/39.php"
+    ],
     "Time": "05:06",
     "Event": " Liga MX, Clausura:  Monterrey Rayados vs Atletico San Luis"
   },
   {
-    "HtmlUrls": [],
+    "HtmlUrls": [
+      "https://sport-streaming.me/capodeportes/stream/50.php",
+      "https://sport-streaming.me/capodeportes/tele/50.php",
+      "https://sport-streaming.me/capodeportes/cast/50.php",
+      "https://telerium.digital/embed/25554.html",
+      "https://v6.sportzonline.to/channels/hd/hd2.php"
+    ],
     "Time": "17:00",
     "Event": " MotoGP:  GP de Doha, Carrera"
   }
